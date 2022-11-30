@@ -29,7 +29,7 @@ body{
 
 #page .box {
     background-color: var(--White);
-    border: 1px solid black;
+    border: 1px solid var(--White);
     border-radius: 15px;
     align-items: center;
    padding:15px;
