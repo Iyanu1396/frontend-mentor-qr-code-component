@@ -1,0 +1,51 @@
+:root {
+--White: hsl(0, 0%, 100%);
+--Lgray: hsl(212, 45%, 89%);
+--Gblue: hsl(220, 15%, 55%);
+--Dblue: hsl(218, 44%, 22%);
+--outfit: 'Outfit', sans-serif;
+  }
+
+  html {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body{
+    background-color: var(--Lgray);
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+#page {
+   display: flex;
+   justify-content: center;
+   margin: 5rem;
+}
+
+#page .box {
+    background-color: var(--White);
+    border: 1px solid black;
+    border-radius: 15px;
+    align-items: center;
+   padding:15px;
+}
+
+
+
+.text {
+    color: var(--dblue);
+    width:300px;
+}
+
+img{
+
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
