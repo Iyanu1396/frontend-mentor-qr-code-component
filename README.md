@@ -48,6 +48,6 @@ to impore my knowledge on flexbox to build more advance layouts
 
 
 - Frontend Mentor - [@iyanu1396](https://www.frontendmentor.io/profile/iyanu1396)
-- Twitter - [@iyanu-codes](https://www.twitter.com/iyanu-codes)
+- Twitter - [@iyanu_codes](https://www.twitter.com/iyanu-codes)
 
 
