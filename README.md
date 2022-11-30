@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -48,6 +47,6 @@ to impore my knowledge on flexbox to build more advance layouts
 
 
 - Frontend Mentor - [@iyanu1396](https://www.frontendmentor.io/profile/iyanu1396)
-- Twitter - [@iyanu_codes](https://www.twitter.com/iyanu-codes)
+- Twitter - [@iyanu_codes](https://www.twitter.com/iyanu_codes)
 
 
