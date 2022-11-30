@@ -47,7 +47,7 @@ to impore my knowledge on flexbox to build more advance layouts
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iyanu1396)
-- Twitter - [@yourusername](https://www.twitter.com/iyanu-codes)
+- Frontend Mentor - [@iyanu1396](https://www.frontendmentor.io/profile/iyanu1396)
+- Twitter - [@iyanu-codes](https://www.twitter.com/iyanu-codes)
 
 
